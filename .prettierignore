@@ -1,0 +1,10 @@
+CHANGELOG.md
+dist
+node_modules
+public/*
+!public/styles
+!public/scripts
+pnpm-lock.yaml
+routeTree.gen.ts
+screenshots
+.vscode
